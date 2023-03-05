@@ -30,7 +30,7 @@ Para este ejercicio se utilizo el conjunto de datos de imagenes de articulos de 
 
 # Acceso al proyecto
 
-- Se puede acceder a los archivos de este proyecto mediante la URL: https://github.com/DarioHHH/clasificar_imagenes_ropa
+- Se puede acceder a los archivos de este proyecto mediante la URL: https://github.com/DarioHHH/clasificar_imagenes_ropa.git
 - El archivo del dataset utilizado para este estudio se lo puede descargar de la siguiente URL: https://github.com/zalandoresearch/fashion-mnist
 
 # Conclusiones

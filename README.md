@@ -31,6 +31,7 @@ Para este ejercicio se utilizo el conjunto de datos de imagenes de articulos de 
 # Acceso al proyecto
 
 - Se puede acceder a los archivos de este proyecto mediante la URL: https://github.com/DarioHHH/clasificar_imagenes_ropa
+- El archivo del dataset utilizado para este estudio se lo puede descargar de la siguiente URL: https://github.com/zalandoresearch/fashion-mnist
 
 # Conclusiones
 - Luego de analizar los valores obtenidos y la matriz de confusión en la ejecución de cada uno de los modelos, se concluye que el método que mejores resultados nos presenta es el método Random Forest.
